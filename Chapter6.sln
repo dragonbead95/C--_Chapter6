@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_ConstObject_244p", "Chapter6_ConstObject_244p\Chapter6_ConstObject_244p.vcxproj", "{333F9007-9A7D-4F9B-A458-43CECFAD75FE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_01_ConstObject_244p", "Chapter6_ConstObject_244p\Chapter6_ConstObject_244p.vcxproj", "{333F9007-9A7D-4F9B-A458-43CECFAD75FE}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_ConstOverloading_246p", "Chapter6_ConstOverloading_246p\Chapter6_ConstOverloading_246p.vcxproj", "{E2B55D4F-C2FC-4C3C-9997-349B8FC8D65E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_02_ConstOverloading_246p", "Chapter6_ConstOverloading_246p\Chapter6_ConstOverloading_246p.vcxproj", "{E2B55D4F-C2FC-4C3C-9997-349B8FC8D65E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_MyFriendClass_249p", "Chapter6_MyFriendClass_249p\Chapter6_MyFriendClass_249p.vcxproj", "{E73C1302-9F34-40A7-ADB1-602450B1CC96}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_03_MyFriendClass_249p", "Chapter6_MyFriendClass_249p\Chapter6_MyFriendClass_249p.vcxproj", "{E73C1302-9F34-40A7-ADB1-602450B1CC96}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_MyFriendFunction_252p", "Chapter6_MyFriendFunction_252p\Chapter6_MyFriendFunction_252p.vcxproj", "{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_04_MyFriendFunction_252p", "Chapter6_MyFriendFunction_252p\Chapter6_MyFriendFunction_252p.vcxproj", "{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chapter6_05_CComStatic_255p", "Chapter6_CComStatic_255p\Chapter6_CComStatic_255p.vcxproj", "{F952B941-AB76-4289-B6AA-12909568C5A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,14 @@ Global
 		{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}.Release|x64.Build.0 = Release|x64
 		{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}.Release|x86.ActiveCfg = Release|Win32
 		{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}.Release|x86.Build.0 = Release|Win32
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Debug|x64.ActiveCfg = Debug|x64
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Debug|x64.Build.0 = Debug|x64
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Debug|x86.ActiveCfg = Debug|Win32
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Debug|x86.Build.0 = Debug|Win32
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Release|x64.ActiveCfg = Release|x64
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Release|x64.Build.0 = Release|x64
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Release|x86.ActiveCfg = Release|Win32
+		{F952B941-AB76-4289-B6AA-12909568C5A4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

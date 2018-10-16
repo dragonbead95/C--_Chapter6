@@ -23,6 +23,7 @@
     <ProjectGuid>{5DD8BD69-0E15-4BCA-AEA9-6E9320DB402A}</ProjectGuid>
     <RootNamespace>Chapter6MyFriendFunction252p</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>Chapter6_04_MyFriendFunction_252p</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
